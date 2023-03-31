@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: leg
+//  action 1: the leg cramps
+leg.cramps();
+//  action 2: the leg moves
+leg.moves();
+//  action 3: the leg hurts strong
+leg.hurtsStrong();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: phone
+//  action 1: the phone rings
+phone.rings();
+//  action 2: the phone falls
+phone.falls();
+//  action 3: the phone drains so fast
+phone.drainsSoFast();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
-//  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: tree
+//  action 1: the tree blooms
+tree.blooms();
+//  action 2: the tree grows
+tree.grows();
+//  action 3: the tree drys out 
+tree.drysOut();
+//  4) 
+//  Noun: horse
+//  action 1: the horse eats gras
+horse.eatsGras();
+//  action 2: the horse looses fur
+horse.loosesFur();
+//  action 3: the horse digests the gras
+horse.digestsTheGras();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: dog
+//  action 1: the dog barks
+dog.barks();
+//  action 2: the dog sleeps
+dog.sleeps();
+//  action 3: the dog catches the stick
+dog.catchesTheStick();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: waterTap
+//  action 1: the waterTap breaks
+waterTap.breaks();
+//  action 2: the waterTap leaks
+waterTap.leaks();
+//  action 3: the waterTap fills the sink
+waterTap.fillsTheSink();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: torchFire
+//  action 1: the torchFire ignites hay
+torchFire.ignitesHay();
+//  action 2: the torchFire replaces the candle
+torchFire.replacesCandle();
+//  action 3: the torchFire lights the night
+torchFire.lightsNight();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: lightning
+//  action 1: the lightning strikes
+lightning.strikes();
+//  action 2: the lightning makes thunder
+lightning.makesThunder();
+//  action 3: the lightning inflames tree
+lightning.inflamesTree();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: cat
+//  action 1: the cat meaows
+cat.meaows();
+//  action 2: the cat purrs
+cat.purrs();
+//  action 3: the cat hunts mice
+cat.huntsMice();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: child
+//  action 1: the child eats
+child.eats();
+//  action 2: the child crys
+child.crys();
+//  action 3: the child grows older
+child.growsOlder();
 
 
 #endif
