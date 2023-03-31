@@ -100,13 +100,13 @@ waterTap.leaks();
 //  action 3: the waterTap fills the sink
 waterTap.fillsTheSink();
 //  7)
-//  Noun: candle
-//  action 1: the candle melts
-candle.melts();
-//  action 2: the candle gets hot
-candle.getsHot();
-//  action 3: the candle illuminates room
-candle.illuminatesRoom();
+//  Noun: torchFire
+//  action 1: the torchFire ignites hay
+torchFire.ignitesHay();
+//  action 2: the torchFire replaces the candle
+torchFire.replacesCandle();
+//  action 3: the torchFire lights the night
+torchFire.lightsNight();
 //  8)
 //  Noun: lightning
 //  action 1: the lightning strikes
